@@ -16,7 +16,7 @@ Developer mode: If you type in the directions (G, 17) in the prompt, you will be
 
 Portuguese:
 
-# Batalha naval
+# Batalha naval v2
 
 Um jogo de Batalha naval simples, feito com C++, usando matrizes, que imprime na tela o mapa a cada rodada.
 
