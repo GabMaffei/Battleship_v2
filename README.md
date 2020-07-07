@@ -2,7 +2,7 @@
 
 A simple Battleship game, made with C++, that uses arrays, and prints a map every turn.
 
-This simple console application was an optional activity for the Algorithms and Coding subject in college.
+This simple console application was an optional activity for the Algorithms and Coding subject in college. It was an incomplete program originally made by Professor Cristina Ono Horita, from UNIVALI in 2020.
 
 It's really simple to play: you simply type in where you want to shoot, and you see if you got it right (indicated by a "+"), or not (indicated by a "-").
 
@@ -20,7 +20,7 @@ Portuguese:
 
 Um jogo de Batalha naval simples, feito com C++, usando matrizes, que imprime na tela o mapa a cada rodada.
 
-Essa simples aplicação de console foi uma atividade opcional para a disciplina de Algoritmos e Programação na universidade.
+Essa simples aplicação de console foi uma atividade opcional para a disciplina de Algoritmos e Programação na universidade. Era um programa incompleto da Professora Cristina Ono Horita, da UNIVALi de 2020.
 
 É muito fácil de jogar: você digita onde quer atirar, e visualiza se você acertou o alvo (indicado por um "+") ou errou (indicado por um "-").
 
