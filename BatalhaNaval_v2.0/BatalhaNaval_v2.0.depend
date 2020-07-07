@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1594090312 source:d:\documentos\univali material didático\algoritmos e programação\03-07\batalhanaval_v2.0\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<locale.h>
+
